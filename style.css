@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-size: 32px;
+    line-height: 100%;
+    margin: 0 auto;
+}
